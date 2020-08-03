@@ -1,8 +1,6 @@
 ## Hi, I'm Yuji 👋
 
 2020 is my third year as a professional software engineer specializing in IoT solutions.
-I really want to get back the communities heavily damaged by the covid-19.
-So, if you are working on a project relating to that matter, please contact me on [LinkedIn](https://www.linkedin.com/in/yuji-tabata-76692018b/).
 
 ### Shared Notion Pages
 
