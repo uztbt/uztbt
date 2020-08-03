@@ -1,6 +1,6 @@
 ## Hi, I'm Yuji 👋
 
-2020 is my third year as a professional software engineer, specializing in IoT solutions.
+2020 is my third year as a professional software engineer specializing in IoT solutions.
 
 I really want to get back the communities heavily damaged by the covid-19.
 
