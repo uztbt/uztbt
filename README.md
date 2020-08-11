@@ -10,8 +10,6 @@
 
 I have a [YouTube channel](https://www.youtube.com/channel/UCiO95Tufp1g0TtD9Q-xgw4A?view_as=subscriber) to record my hobby projects.
 
-I list some of them here.
-
 #### [Ackermann] Making of a toy car with an Ackermann steering system [Bluetooth]
 
 [![[Ackermann] Making of a toy car with an Ackermann steering system [Bluetooth]](https://img.youtube.com/vi/bFkqx2st1tw/0.jpg)](https://www.youtube.com/watch?v=bFkqx2st1tw)
