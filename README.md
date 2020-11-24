@@ -1,10 +1,6 @@
 ## Hi, I'm Yuji 👋
 
-2020 is my third year as a professional software engineer specializing in IoT solutions.
-
-### Shared Notion Pages
-
-- [GitLab on K8s Update Process](https://www.notion.so/GitLab-on-K8s-Update-Process-02423e5725734257bcf11ea7b9753f6f)
+2020 is my third year as a professional software engineer!
 
 ### YouTube
 
