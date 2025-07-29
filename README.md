@@ -1,4 +1,4 @@
 ## Hi, I'm Yuji 👋
 
-Please visit my website!
-https://yuji.page
+Please visit my company's website!
+https://afterai.dev
